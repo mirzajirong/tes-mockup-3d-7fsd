@@ -1,0 +1,8 @@
+{
+  "name": "Editor Suite Studio V. 1.1",
+  "description": "Create professional 3D mockups in real time with UV mapping, material customization, and high-quality image \u0026 360° video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
